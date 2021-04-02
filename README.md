@@ -1,6 +1,6 @@
 # AIBot 小车 & mycobot 机械臂ros moveit控制
 
-![mycobot](pic/mycobot.png)
+![mycobot](pic/aibot_arm.png)
 
 ## 机械臂固件版本
 
