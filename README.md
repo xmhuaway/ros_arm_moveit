@@ -2,6 +2,8 @@
 
 ![mycobot](pic/aibot_arm.png)
 
+这是针对AIBot小车的机械臂开发的ROS控制器，他实现了机械臂通过ROS Moveit进行控制。
+
 ## 机械臂固件版本
 
 * Basic : Transponder
@@ -25,9 +27,11 @@ sudo apt-get install ros-kinetic-serial
 ```
 其他ros包需要下载并放在工作空间中编译
 
+下载小车消息依赖包
 * [aibot_msgs](https://github.com/xmhuaway/aibot_msgs.git)
-* [mycobot_moveit_config](https://github.com/xmhuaway/mycobot_moveit_config)
 
+下载机械Moveit 配置文件包
+* [mycobot_moveit_config](https://github.com/xmhuaway/mycobot_moveit_config)
 
 
 ## 运行
