@@ -1,4 +1,4 @@
-# mycobot 机械臂ros moveit控制
+# AIBot 小车 & mycobot 机械臂ros moveit控制
 
 ![mycobot](pic/mycobot.png)
 
@@ -26,7 +26,7 @@ sudo apt-get install ros-kinetic-serial
 其他ros包需要下载并放在工作空间中编译
 
 * [aibot_msgs](https://github.com/xmhuaway/aibot_msgs.git)
-* [mycobot_moveit_config](https://github.com/kevin-zhuang/mycobot_moveit_config)
+* [mycobot_moveit_config](https://github.com/xmhuaway/mycobot_moveit_config)
 
 
 
