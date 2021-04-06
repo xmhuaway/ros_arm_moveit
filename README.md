@@ -36,6 +36,7 @@ git clone https://github.com/xmhuaway/aibot_msgs.git
 
 下载机械Moveit 配置文件包。<font color='red'> 这个包做过修改，和官网的包不一样！ </font>
 <font color=FF0000> text </font>
+$\color{red}{红色字}$
 * [mycobot_moveit_config](https://github.com/xmhuaway/mycobot_moveit_config)
 
 ```cmd
