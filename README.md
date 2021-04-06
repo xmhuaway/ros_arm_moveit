@@ -34,7 +34,7 @@ sudo apt-get install ros-kinetic-serial
 git clone https://github.com/xmhuaway/aibot_msgs.git
 ```
 
-下载机械Moveit 配置文件包<font color=red size=5>这个包做过修改，和官网的包不一样</font>
+下载机械Moveit 配置文件包。<font color='red'> 这个包做过修改，和官网的包不一样！ </font>
 * [mycobot_moveit_config](https://github.com/xmhuaway/mycobot_moveit_config)
 
 ```cmd
