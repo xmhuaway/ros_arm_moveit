@@ -25,14 +25,21 @@ sudo apt-get install ros-kinetic-controller-manager
 sudo apt-get install ros-kinetic-position-controllers
 sudo apt-get install ros-kinetic-serial
 ```
-其他ros包需要下载并放在工作空间中编译
+## 另外您还需要下载两个包，包括一个消息包以及 MyCobo moveit配置包
 
 下载小车消息依赖包
 * [aibot_msgs](https://github.com/xmhuaway/aibot_msgs.git)
 
+```cmd
+git clone https://github.com/xmhuaway/aibot_msgs.git
+```
+
 下载机械Moveit 配置文件包
 * [mycobot_moveit_config](https://github.com/xmhuaway/mycobot_moveit_config)
 
+```cmd
+git clone https://github.com/xmhuaway/mycobot_moveit_config
+```
 
 ## 运行
 
